@@ -1,0 +1,17 @@
+#root{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.body{
+    display:flex;
+    flex-direction: row;
+}
+.productList{
+    width: 100%;
+    text-align: left;
+}
+.companiesList{
+    width:100%;
+    text-align: right;
+}
